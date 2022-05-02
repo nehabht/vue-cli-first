@@ -14,7 +14,8 @@ export default {
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped lang="scss">
 h1{
-    color: cornflowerblue;
+    font-size: 50px;
+    color: black;
 }
 
 </style>
